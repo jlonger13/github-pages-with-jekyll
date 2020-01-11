@@ -1,3 +1,3 @@
-# Welcome to my blog
+Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+My name is James Long. I plan to talk about a wide range of issues and subjects
